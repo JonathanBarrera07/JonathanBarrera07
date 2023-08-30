@@ -1,7 +1,7 @@
 # Jonathan Barrera
 
 ## Resumen
-Apasionado desarrollador de software JUNIOR con experiencia en [JavaScript, HTML, CSS, Phyton, Etc]. Enfocado en la creación de soluciones eficientes y escalables. Entusiasta del aprendizaje continuo y la colaboración.
+Apasionado desarrollador de software JUNIOR con experiencia en JavaScript, HTML, CSS, Phyton, Etc. Enfocado en la creación de soluciones eficientes y escalables. Entusiasta del aprendizaje continuo y la colaboración.
 
 ## Educación
 ### Tecnico en programación en [Escuela Experimental Proa] - [2017] - [2023]
@@ -10,7 +10,8 @@ Apasionado desarrollador de software JUNIOR con experiencia en [JavaScript, HTML
 
 ## Idiomas
 
-- [Idioma]: [Ingles: Medio].
+- Ingles: Medio.
+- Español: Alto.
 
 ## Intereses
 
