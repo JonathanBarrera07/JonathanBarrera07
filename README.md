@@ -1,4 +1,4 @@
-# [Jonathan Barrera]
+# Jonathan Barrera
 
 ## Resumen
 Apasionado desarrollador de software JUNIOR con experiencia en [JavaScript, HTML, CSS, Phyton, Etc]. Enfocado en la creación de soluciones eficientes y escalables. Entusiasta del aprendizaje continuo y la colaboración.
