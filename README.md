@@ -1,4 +1,4 @@
-# Jonathan Barrera
+# :boom:Jonathan Barrera:boom:
 
 ## Resumen
 Apasionado desarrollador de software JUNIOR con experiencia en JavaScript, HTML, CSS, Phyton, Etc. Enfocado en la creación de soluciones eficientes y escalables. Entusiasta del aprendizaje continuo y la colaboración.
@@ -21,4 +21,4 @@ Apasionado desarrollador de software JUNIOR con experiencia en JavaScript, HTML,
 
 ## Referencias
 
-Disponibles a petición.
+Disponibles a petición o +54 3564-561719.
