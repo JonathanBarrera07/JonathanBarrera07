@@ -13,12 +13,12 @@ Apasionado desarrollador de software JUNIOR con experiencia en JavaScript, HTML,
 - Ingles: Medio.
 - Español: Alto.
 
-## Intereses
+## :star: Intereses
 
 - Desarrollo web
 - Aprendizaje automático
 - Contribuciones de código abierto
 
-## Referencias
+## :star: Referencias
 
 Disponibles a petición o +54 3564-561719.
